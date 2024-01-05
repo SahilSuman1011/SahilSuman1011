@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack and AI-ML**
 
-- 👨‍💻 All of my projects are available at [https://sahil-suman-portfolio.netlify.app/](https://sahil-suman-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sahilsuman1011.github.io/Portfolio-Website/](https://sahilsuman1011.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **sahilsuman1202@gmail.com**
 
