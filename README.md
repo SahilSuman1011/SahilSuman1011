@@ -11,10 +11,8 @@
 
 - 📫 How to reach me **sahilsuman1202@gmail.com**
 
-- 📄 Know about my experiences [ https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing]
-- [
--  https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing
--  ]
+- 📄 Resume here :  [ https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
