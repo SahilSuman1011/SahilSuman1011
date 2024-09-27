@@ -1,5 +1,7 @@
-# 💫 About Me:
- Hi 👋, I'm Sahil Suman<br>A passionate Software Engineer from India<br><br>🔭 currently working on AI Interview Mocker - An AI Interviewer<br>🌱 currently into Mern Stack and learning AI-ML<br>👨‍💻 My Work : https://sahilsuman1011.github.io/Portfolio-Website/<br>📫Reach me sahilsuman1202@gmail.com<br>📄 Resume :  https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing
+# 💫 About Me:  <img align="right" height="300px" widht="200px" alt="GIF" src="https://i.gifer.com/UHdJ.gif">
+ Hi 👋, I'm Sahil Suman<br>A passionate Software Engineer from India <br> 🔭 currently working on AI Interview Mocker - An AI Interviewer<br> 🌱 currently into Mern Stack and learning AI-ML<br> 
+ 👨‍💻 My Work : https://sahilsuman1011.github.io/Portfolio-Website/<br>📫Reach me sahilsuman1202@gmail.com<br>📄Resume :  https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing
+ 
 
 
 ## 🌐 Socials:
