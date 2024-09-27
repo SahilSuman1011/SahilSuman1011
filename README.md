@@ -1,6 +1,6 @@
  
 
- ## Jai Shree Ram 🧡 <br/>  _Sahil Suman here !_ <img align="right" height="200px" widht="200px" alt="GIF" src="https://i.gifer.com/C6HJ.gif">
+ ## Jai Shree Ram 🧡 <br/>  _Sahil Suman here !_ <img align="right" height="300px" widht="300px" alt="GIF" src="https://i.gifer.com/2xwp.gif">
   <p font-bold>A passionate Software Engineer from India <p/>
  🔭 currently working on AI Interview Mocker - An AI Interviewer<br> 🌱 currently into Mern Stack and learning AI-ML<br> 
  👨‍💻 My Work : https://sahilsuman1011.github.io/Portfolio-Website/<br>📫Reach me sahilsuman1202@gmail.com<br>📄Resume :  https://drive.google.com/file/d/1O6lElfcXOqFm5OXbJ1NTUPFUw2MGOKeX/view?usp=sharing
