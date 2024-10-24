@@ -2,7 +2,7 @@
 
  ## Jai Shree Ram 🧡 <br/>  _Sahil Suman here !_ 
   <p font-bold>A passionate Software Engineer from India <p/>
- 🔭 currently working on AI Interview Mocker - An AI Interviewer<br> 🌱 currently into Mern Stack and learning AI-ML<br> 
+ <p > Currently working with Next.js and learning Web-3<br> <p/>
  📄Resume :  https://drive.google.com/file/d/1TebM97yDDifP0gC3p45mFuZx_7Qb0ll1/view?usp=sharing
 
 [![](https://visitcount.itsvg.in/api?id=SahilSuman1011&icon=0&color=0)](https://visitcount.itsvg.in)
