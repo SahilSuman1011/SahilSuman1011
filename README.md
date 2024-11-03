@@ -1,7 +1,7 @@
  
 
  ## Jai Shree Ram 🧡 <br/>  _Sahil Suman here !_ 
-  <p font-bold>A passionate Software Engineer from India <p/>
+  <p font-bold>A Full-stack Developer from India <p/>
  <p > Currently working with Next.js and learning Web-3<br> <p/>
  📄Resume :  https://drive.google.com/file/d/1TebM97yDDifP0gC3p45mFuZx_7Qb0ll1/view?usp=sharing
 
