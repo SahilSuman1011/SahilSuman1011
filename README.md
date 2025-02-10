@@ -6,7 +6,7 @@
    
  - 🌍  I'm based in New Delhi, India <br/>
  - 🖥️  See my Portfolio at https://sahil-suman.vercel.app/ <br/>
- - 📄  See my Resume at https://drive.google.com/file/d/1TebM97yDDifP0gC3p45mFuZx_7Qb0ll1/view?usp=sharing </br>
+ - 📄  See my Resume at https://drive.google.com/file/d/19QSSfLirltaKhAPke7ZAPmXnX4-XRZke/view?usp=sharing </br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
  - 🚀  I'm currently working on CraftyAI. <br/>
  - 🧠  I'm learning Generative AI and Building SASS Products. <br/>
