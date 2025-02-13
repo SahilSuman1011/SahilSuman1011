@@ -10,7 +10,7 @@
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
  - 🚀  I'm currently working on CraftyAI. <br/>
  - 🧠  I'm learning Generative AI and Building SASS Products. <br/>
- - 🤝  I'm open to collaborate on Shipping fast and Prod Ready apps. <br/>
+ - 🤝  I'm open to collaborate on Shipping fast and Production Ready apps. <br/>
 
 [![](https://visitcount.itsvg.in/api?id=SahilSuman1011&icon=0&color=0)](https://visitcount.itsvg.in)
 
