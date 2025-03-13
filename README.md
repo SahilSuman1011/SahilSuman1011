@@ -6,7 +6,7 @@
    
  - 🌍  I'm based in New Delhi, India <br/>
  - 🖥️  See my Portfolio [Here](https://sahil-suman.vercel.app/) <br/>
- - 📄  See my Resume [Here](https://drive.google.com/file/d/1cnyBqDahKoC_UqejTw7KEpUz-mMJ7tDx/view?usp=drivesdk)</br>
+ - 📄  See my Resume [Here](https://drive.google.com/file/d/1qjcO-YYA0LqzHW54Ucn5n-p_yqb5IS5B/view?usp=sharing)</br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
  - 🚀  I'm currently working on [Reels Pro](https://github.com/SahilSuman1011/Reels-Pro) and  [SuperYC](https://github.com/SahilSuman1011/SuperYC) . <br/>
  - 🧠  I'm learning Generative AI and Building SASS Products. <br/>
