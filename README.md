@@ -8,7 +8,7 @@
  - 🖥️  See my Portfolio [Here](https://sahil-suman.vercel.app/) <br/>
  - 📄  See my Resume [Here](https://drive.google.com/file/d/1qjcO-YYA0LqzHW54Ucn5n-p_yqb5IS5B/view?usp=sharing)</br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
- - 🚀  I'm currently working on [Reels Pro](https://github.com/SahilSuman1011/Reels-Pro) and  [MailMan](https://github.com/SahilSuman1011/MailMan) . <br/>
+ - 🚀  I'm currently working on [Reels Pro](https://github.com/SahilSuman1011/Reels-Pro) and  [Loki](https://github.com/SahilSuman1011/Loki) . <br/>
  - 🧠  I'm learning Generative AI, Agentic AI and Building SASS Products. <br/>
  - 🤝  I'm open to collaborate on Shipping fast and Production Ready apps. <br/>
 
