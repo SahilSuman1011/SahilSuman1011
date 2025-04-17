@@ -6,7 +6,8 @@
    
  - 🌍  I'm based in New Delhi, India <br/>
  - 🖥️  See my Portfolio [Here](https://sahil-suman.vercel.app/) <br/>
- - 📄  See my Resume [Here](https://drive.google.com/file/d/1qjcO-YYA0LqzHW54Ucn5n-p_yqb5IS5B/view?usp=sharing)</br>
+ - 📄  See my Resume [Here](https://drive.google.com/file/d/1uTySN4jv3cwfJ43olQkb72b7DHik-9Vg/view?usp=drivesdk
+)</br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
  - 🚀  I'm currently working on [Reels Pro](https://github.com/SahilSuman1011/Reels-Pro) and  [Loki](https://github.com/SahilSuman1011/Loki) . <br/>
  - 🧠  I'm learning Generative AI, Agentic AI and Building SASS Products. <br/>
