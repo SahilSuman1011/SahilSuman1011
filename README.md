@@ -1,6 +1,6 @@
  
 
-## नमस्ते Everyone 🧡 <br/> 
+## नमस्ते Everyone 🙏🏼 <br/> 
 ## Sahil Suman here ! 
   <p font-bold>A Full-stack Developer from India <p/> <p >Building Scalable and Production ready Softwares. <p/>
    
@@ -9,7 +9,7 @@
  - 📄  See my Resume [Here](https://drive.google.com/file/d/1uTySN4jv3cwfJ43olQkb72b7DHik-9Vg/view?usp=drivesdk
 )</br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
- - 🚀  I'm currently working on [Loki](https://github.com/SahilSuman1011/Loki) . <br/>
+ - 🚀  I'm currently working on [Toolie AI](https://github.com/SahilSuman1011/Toolie-AI) . <br/>
  - 🧠  I'm learning Generative AI, Agentic AI and Building SASS Products. <br/>
  - 🤝  I'm open to collaborate on Shipping fast and Production Ready apps. <br/>
 
