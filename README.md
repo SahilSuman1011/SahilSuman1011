@@ -8,7 +8,7 @@
  - 🖥️  See my Portfolio [Here](https://www.sahilsuman.dev/) <br/>
  - 📄  See my Resume [Here](https://drive.google.com/file/d/1Zz3Llr8BdsgnAr3ggcytUS8x4r38ZIFc/view?usp=sharing)</br>
  - ✉️  You can contact me at sahilsuman1202@gmail.com <br/>
- - 🚀  I'm currently working on [Toolie AI](https://toolie-ai.vercel.app/) <br/>
+ - 🚀  I'm currently working on [Toolie AI](https://toolie.tech/) <br/>
  - 🧠  I'm learning Generative AI, Agentic AI and Building SASS Products. <br/>
  - 🤝  I'm open to collaborate on Shipping fast and Production Ready apps. <br/>
 
